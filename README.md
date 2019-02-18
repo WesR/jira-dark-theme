@@ -2,7 +2,7 @@
 A dark theme for jira based off of [Jira Carbon 2](https://userstyles.org/styles/164736/jira-carbon-2) for use in stylus
 
 
-#License
+# License
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
