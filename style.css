@@ -966,6 +966,11 @@ body#tinymce table th {
     background-color: #434953 !important;
 }
 
+/* header for kanban board sections */
+.ghx-swimlane-header {
+    background-color: #21252D !important;
+}
+
 pre,
 code {
     background: #2C3037 !important;
