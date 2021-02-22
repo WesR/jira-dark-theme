@@ -137,8 +137,15 @@ form.aui div.description {
 }
 
 #dashboard,
+#dashboard-content,
+#dashboard-tabs,
 .gadget .dashboard-item-content {
     background-color: #21252D !important;
+}
+
+#dashboard > .vertical.tabs,
+#dashboard > #dashboard-content {
+    background:#21252D !important;
 }
 
 #footer-logo {
