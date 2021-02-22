@@ -166,6 +166,7 @@ form.aui div.description {
 .issue-table > tfoot > tr,
 .issuerow {
     background-color: #21252D !important;
+    color: #EBEBEB !important;
 }
 
 .activity-item-description .user-content {
